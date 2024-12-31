@@ -53,8 +53,8 @@ myRgb.init();
 Use the `setColor()` method to change colors, you can use the included colors or use your own.
 
 ```cpp
-myRgb(red);
-myRgb(163, 156, 232); // custom color
+myRgb.setColor(red);
+myRgb.setColor(163, 156, 232); // custom color
 ```
 
 
